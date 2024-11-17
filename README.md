@@ -33,9 +33,8 @@ I believe in the power of collaboration and the magic that unfolds when minds co
 
 ## Languages 🛠 
 <div align="center">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" height="50"/>
 </div>
 
 ## Development Frameworks and Libraries
@@ -64,9 +63,6 @@ I believe in the power of collaboration and the magic that unfolds when minds co
   <img src="https://github-profile-trophy.vercel.app?username=Aakashaneja&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-
-## Watch a 🐍 eating my contribution graph
-<img src="https://raw.githubusercontent.com/Aakashaneja/Aakashaneja/output/snake.svg" alt="Snake animation" align="center"/>
 
 
 ### Thank you for visiting my GitHub profile. Let's embark on this exhilarating journey together, shaping the future one commitment at a time!
